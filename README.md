@@ -1,5 +1,5 @@
 
-# Table of content
+# Table of Content
 - [Reconstruction Framework](#reconstruction-framework)
 - [Getting Started](#getting-started)
   - [Quick start: run the reconstruction procedure](#quick-start-run-the-reconstruction-procedure)
